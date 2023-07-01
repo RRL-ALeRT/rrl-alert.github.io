@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Robocup German Open 2023 Rescue League!
-subtitle: A awesome static site generator.
+title: Robocup German Open 2023 Rescue League
+subtitle: ALeRT first time at German Open Rescue League
 author: Maximillian Kirsch
 categories: Events
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
-  loop: true
+  video: https://fh-aachen.sciebo.de/s/4lu4HQEeUVYhXFT
   volume: 0.8
   start_at: 8.5
   image: "/assets/images/"
@@ -16,20 +15,16 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: Spot Parkour Demo
+tags: RoboCup GermanOpen RescueLeague
 sidebar: []
 ---
 
-Today our spot was located at the Archimedean sandbox on the Katschhof. Children were given the opportunity to steer the spot through a parkour with gestures.
+We are happy to announce that our team ALeRT participated in a rescue competition against other teams and robots for the first time after a year and a half of development.
 
-## The Parkour
+![Gestures](/assets/images/GermanOpen2023/spot_GermanOpen2023.jpg "Spot")
 
-![Parkour](/assets/images/Sandkasten_0.jpg "The Parkour")
+![The Team](/assets/images/GermanOpen2023/teamphoto_GermanOpen2023.jpg "The Team")
 
-We have built a small parkour through which the spot must be navigated. The operator stood on an elevated position in view of the spot and screens on which the camera images of the spot were displayed.
+![Gestures](/assets/images/GermanOpen2023/sensorBoard.png "Sensor Board")
 
-## Gesture Detection
-
-![Gestures](/assets/images/gestures.png "Gesture Detection")
-
-The gesture detection was implemented with `mediapipe`. The available commands are straight ahead, back and turn left/right. The instructions were visualized via a GUI.
+![Gestures](/assets/images/GermanOpen2023/EXP_entrance.jpg "Exploration Entrance")

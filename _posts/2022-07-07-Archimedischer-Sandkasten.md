@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Archimedischer Sandkasten!
-subtitle: A awesome static site generator.
+subtitle: Kids controlling Spot
 author: Maximillian Kirsch
 categories: Demonstrations
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video:
   loop: true
   volume: 0.8
   start_at: 8.5
@@ -20,13 +20,13 @@ tags: Spot Parkour Demo
 sidebar: []
 ---
 
-Today our spot was located at the Archimedean sandbox on the Katschhof. Children were given the opportunity to steer the spot through a parkour with gestures.
+Today our spot was located at the Archimedean sandbox on the Katschhof. Children were given the opportunity to steer spot through a parkour with gestures.
 
 ## The Parkour
 
 ![Parkour](/assets/images/Sandkasten_0.jpg "The Parkour")
 
-We have built a small parkour through which the spot must be navigated. The operator stood on an elevated position in view of the spot and screens on which the camera images of the spot were displayed.
+We have built a small parkour through which spot must be navigated. The operator stood on an elevated position in view of spot and screens on which the camera images of the spot were displayed.
 
 ## Gesture Detection
 
